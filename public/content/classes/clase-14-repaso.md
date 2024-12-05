@@ -1,10 +1,3 @@
----
-title: 'Integración de Sistemas y Servicios Web'
-date: '2024-12-05'
-author: 'Fabrizio Camaggi'
-tags: ['integración', 'servicios web', 'REST', 'arquitectura']
----
-
 # Integración de Sistemas y Servicios Web
 
 ## Descripción General

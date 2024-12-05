@@ -2,14 +2,6 @@
 
 ## Estructura Base de Documentos
 
-```markdown
----
-title: 'Título del Documento'
-date: '2024-12-05'
-author: 'Nombre del Autor'
-tags: ['tag1', 'tag2']
----
-
 # Título Principal del Documento
 
 ## Descripción General
@@ -21,7 +13,8 @@ tags: ['tag1', 'tag2']
 - Objetivo 1
 - Objetivo 2
 - Objetivo 3
-```
+
+````
 
 ## Elementos Básicos de Formato
 
@@ -39,7 +32,7 @@ tags: ['tag1', 'tag2']
 ##### Título 5
 
 ###### Título 6
-```
+````
 
 ### Énfasis de Texto
 

@@ -1,9 +1,4 @@
----
-title: 'Integración por Eventos'
-date: '2024-12-05'
-author: 'Fabrizio Camaggi'
-tags: ['eventos', 'arquitectura', 'integración', 'middleware']
----
+
 
 # Integración por Eventos - IIC3103
 

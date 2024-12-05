@@ -1,10 +1,3 @@
----
-title: 'Servicios Web y REST'
-date: '2024-12-05'
-author: 'Fabrizio Camaggi'
-tags: []
----
-
 # Taller de Integración - Introducción a Sistemas de Integración
 
 ## Información del Curso

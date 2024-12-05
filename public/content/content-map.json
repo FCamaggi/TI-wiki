@@ -1,448 +1,89 @@
 {
   "classes": [
     {
-      "slug": "clase-00-Invitado-Ikea",
-      "title": "Clase 00: Invitado Ikea",
-      "order": 0,
+      "slug": "clase-1-introducción",
+      "title": "Clase 1: introducción",
+      "order": 1,
       "isPdf": false
     },
     {
-      "slug": "clase-02-Administracion-Proyectos",
-      "title": "Clase 02: Administracion Proyectos",
+      "slug": "clase-2-servicios-parte-1",
+      "title": "Clase 2: servicios parte 1",
       "order": 2,
       "isPdf": false
     },
     {
-      "slug": "clase-03-Diseño-de-Procesos",
-      "title": "Clase 03: Diseño de Procesos",
+      "slug": "clase-3-servicios-parte-2",
+      "title": "Clase 3: servicios parte 2",
       "order": 3,
       "isPdf": false
     },
     {
-      "slug": "clase-04-Diseño-de-Bienes-y-Servicios",
-      "title": "Clase 04: Diseño de Bienes y Servicios",
+      "slug": "clase-4-eventos-parte-1-",
+      "title": "Clase 4: eventos parte 1 ",
       "order": 4,
       "isPdf": false
     },
     {
-      "slug": "clase-06-Introduccion-a-la-Gestión-de-la-Cadena-de-Abastecimiento",
-      "title": "Clase 06: Introduccion a la Gestión de la Cadena de Abastecimiento",
+      "slug": "clase-5-eventos-parte-2",
+      "title": "Clase 5: eventos parte 2",
+      "order": 5,
+      "isPdf": false
+    },
+    {
+      "slug": "clase-6-integración-por-datos-",
+      "title": "Clase 6: integración por datos ",
       "order": 6,
       "isPdf": false
     },
     {
-      "slug": "clase-12-Sistemas-PULL",
-      "title": "Clase 12: Sistemas PULL",
+      "slug": "clase-7-integración-por-datos-parte-2-",
+      "title": "Clase 7: integración por datos parte 2 ",
+      "order": 7,
+      "isPdf": false
+    },
+    {
+      "slug": "clase-8-introducción-arquitectura",
+      "title": "Clase 8: introducción arquitectura",
+      "order": 8,
+      "isPdf": false
+    },
+    {
+      "slug": "clase-9-seguridad",
+      "title": "Clase 9: seguridad",
+      "order": 9,
+      "isPdf": false
+    },
+    {
+      "slug": "clase-10-escalabilidad",
+      "title": "Clase 10: escalabilidad",
+      "order": 10,
+      "isPdf": false
+    },
+    {
+      "slug": "clase-11-systems-design",
+      "title": "Clase 11: systems design",
+      "order": 11,
+      "isPdf": false
+    },
+    {
+      "slug": "clase-12-principios-de-diseño-de-sistemas",
+      "title": "Clase 12: principios de diseño de sistemas",
       "order": 12,
       "isPdf": false
     },
     {
-      "slug": "clase-13-Inventarios-I",
-      "title": "Clase 13: Inventarios I",
-      "order": 13,
-      "isPdf": false
-    },
-    {
-      "slug": "clase-14-Inventarios-II",
-      "title": "Clase 14: Inventarios II",
+      "slug": "clase-14-repaso",
+      "title": "Clase 14: repaso",
       "order": 14,
       "isPdf": false
     },
     {
-      "slug": "clase-16-Pronosticos(+clase17)",
-      "title": "Clase 16: Pronosticos(+clase17)",
-      "order": 16,
-      "isPdf": false
-    },
-    {
-      "slug": "clase-18-Revenue-Management",
-      "title": "Clase 18: Revenue Management",
-      "order": 18,
-      "isPdf": false
-    },
-    {
-      "slug": "clase-20-Scheduling-Waiting",
-      "title": "Clase 20: Scheduling Waiting",
-      "order": 20,
-      "isPdf": false
-    },
-    {
-      "slug": "clase-22-Planif-Agregada",
-      "title": "Clase 22: Planif Agregada",
-      "order": 22,
-      "isPdf": false
-    },
-    {
-      "slug": "clase-24-Planif-Corto-Plazo-MRP-ERP",
-      "title": "Clase 24: Planif Corto Plazo MRP ERP",
-      "order": 24,
-      "isPdf": false
-    },
-    {
-      "slug": "clase-25-Manejo-de-Calidad-Total",
-      "title": "Clase 25: Manejo de Calidad Total",
-      "order": 25,
-      "isPdf": false
-    },
-    {
-      "slug": "clase-27-Control-Estadistico-de-Procesos",
-      "title": "Clase 27: Control Estadistico de Procesos",
-      "order": 27,
-      "isPdf": false
-    },
-    {
-      "slug": "clase-28-Calidad-de-Servicio",
-      "title": "Clase 28: Calidad de Servicio",
-      "order": 28,
+      "slug": "clase-15-repaso-v2",
+      "title": "Clase 15: repaso v2",
+      "order": 15,
       "isPdf": false
     }
   ],
-  "cases": [
-    {
-      "slug": "Caso 1 - Benihana",
-      "title": "Caso 1   Benihana",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 1 - Benihana",
-      "title": "Caso 1   Benihana",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Caso 2 - NCC",
-      "title": "Caso 2   NCC",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 2 - NCC",
-      "title": "Caso 2   NCC",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Caso 3 - Barilla",
-      "title": "Caso 3   Barilla",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 3 - Barilla",
-      "title": "Caso 3   Barilla",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Caso 4 - Blanchard",
-      "title": "Caso 4   Blanchard",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 4 - Blanchard",
-      "title": "Caso 4   Blanchard",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Caso 5 - TNG - Revenue Management",
-      "title": "Caso 5   TNG   Revenue Management",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 5 - TNG - Revenue Management",
-      "title": "Caso 5   TNG   Revenue Management",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Caso 6 - SSU",
-      "title": "Caso 6   SSU",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 6 - SSU",
-      "title": "Caso 6   SSU",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Caso 7 - Toyota",
-      "title": "Caso 7   Toyota",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 7 - Toyota",
-      "title": "Caso 7   Toyota",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Caso 8 - British Airways",
-      "title": "Caso 8   British Airways",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 8 - British Airways",
-      "title": "Caso 8   British Airways",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Caso 8 - Ritz Carlton",
-      "title": "Caso 8   Ritz Carlton",
-      "order": 0,
-      "isPdf": false
-    },
-    {
-      "slug": "Caso 8 - Ritz Carlton",
-      "title": "Caso 8   Ritz Carlton",
-      "order": 0,
-      "isPdf": true
-    }
-  ],
-  "tests": [
-    {
-      "slug": "Examen - 2022 (pauta)",
-      "title": "Examen   2022 (pauta)",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Examen 2013-2",
-      "title": "Examen 2013 2",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Examen 2014-1",
-      "title": "Examen 2014 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Examen 2016-1",
-      "title": "Examen 2016 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Examen 2017-1",
-      "title": "Examen 2017 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "Examen 2018-1",
-      "title": "Examen 2018 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 - 2023 (pauta)",
-      "title": "I1   2023 (pauta)",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 - GOP",
-      "title": "I1   GOP",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 2014-1",
-      "title": "I1 2014 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 2015-1",
-      "title": "I1 2015 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 2016-1",
-      "title": "I1 2016 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 2017-1",
-      "title": "I1 2017 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 2018-1",
-      "title": "I1 2018 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 2019-1",
-      "title": "I1 2019 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I1 2022 pauta",
-      "title": "I1 2022 pauta",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 - 2017 (pauta) ",
-      "title": "I2   2017 (pauta) ",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 - 2017 (pauta)",
-      "title": "I2   2017 (pauta)",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 - 2023 (pauta)",
-      "title": "I2   2023 (pauta)",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 - 2024 (sin pauta)",
-      "title": "I2   2024 (sin pauta)",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 2013-1",
-      "title": "I2 2013 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 2014-1",
-      "title": "I2 2014 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 2014-2",
-      "title": "I2 2014 2",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 2015-1",
-      "title": "I2 2015 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 2016-1",
-      "title": "I2 2016 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 2017-1",
-      "title": "I2 2017 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 2018-1",
-      "title": "I2 2018 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I2 2019-1",
-      "title": "I2 2019 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I3 2013-2",
-      "title": "I3 2013 2",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I3 2014-1",
-      "title": "I3 2014 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I3 2015-1 (Sin Pauta)",
-      "title": "I3 2015 1 (Sin Pauta)",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I3 2015-2",
-      "title": "I3 2015 2",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I3 2016-1",
-      "title": "I3 2016 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I3 2017-1",
-      "title": "I3 2017 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I3 2018-1",
-      "title": "I3 2018 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "I3 2019-1",
-      "title": "I3 2019 1",
-      "order": 0,
-      "isPdf": true
-    }
-  ],
-  "others": [
-    {
-      "slug": "otros - Notas la meta (by: Ivan)",
-      "title": "Notas la meta (by: Ivan)",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "otros - Resumen Casos GOP 1",
-      "title": "Resumen Casos GOP 1",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "otros - Resumen Casos GOP 2",
-      "title": "Resumen Casos GOP 2",
-      "order": 0,
-      "isPdf": true
-    },
-    {
-      "slug": "otros - Resumen LA META",
-      "title": "Resumen LA META",
-      "order": 0,
-      "isPdf": true
-    }
-  ]
+  "tests": []
 }

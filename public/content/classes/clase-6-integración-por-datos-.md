@@ -1,9 +1,4 @@
----
-title: 'Integración por Datos'
-date: '2024-12-05'
-author: 'Fabrizio Camaggi'
-tags: ['integración', 'datos', 'architectura', 'transferencia']
----
+
 
 # Integración por Datos - IIC3103
 

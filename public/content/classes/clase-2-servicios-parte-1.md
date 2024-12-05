@@ -1,9 +1,4 @@
----
-title: 'Servicios Web y REST'
-date: '2024-12-05'
-author: 'Fabrizio Camaggi'
-tags: ['servicios web', 'REST', 'integración', 'HTTP']
----
+
 
 # Servicios Web y REST
 

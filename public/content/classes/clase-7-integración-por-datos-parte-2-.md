@@ -1,9 +1,4 @@
----
-title: 'Integración por Datos - Parte 2'
-date: '2024-12-05'
-author: 'Fabrizio Camaggi'
-course: 'IIC3103 - Taller de Integración'
----
+
 
 # Integración por Datos - Arquitecturas y Estrategias
 

@@ -1,9 +1,4 @@
----
-title: 'Servicios Parte 2: Clasificación de APIs y Autenticación'
-date: '2024-12-05'
-author: 'Fabrizio Camaggi'
-tags: ['APIs', 'REST', 'Autenticación', 'OAuth', 'JWT']
----
+
 
 # Servicios Web: Clasificación de APIs y Autenticación
 
