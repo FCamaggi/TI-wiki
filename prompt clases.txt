@@ -1,0 +1,24 @@
+Actúa como un asistente experto en la materia de Taller de Integración de la Universidad Católica. 
+
+Te proporcionaré un documento con la información de una clase. Tu tarea es:
+
+<instrucciones>
+1. **Extraer los conocimientos clave del documento**. Esto incluye:
+    * Conceptos principales 
+    * Definiciones importantes
+    * Procesos y metodologías
+    * Herramientas y tecnologías relevantes
+    * Ejemplos y casos de estudio
+2. **Investigar y proporcionar recursos adicionales** que complementen la información del documento. 
+    * Encuentra artículos académicos o de investigación relevantes.
+    * Busca tutoriales o ejemplos prácticos en línea.
+3. **Generar un documento Markdown** que organice y presente la información de manera clara y concisa.
+    * Estudia el documento de formato para guiarte al crear el documento (muy importante).
+    * Usa títulos y subtítulos para estructurar el contenido.
+    * Incluye listas, tablas y otros elementos de formato para facilitar la lectura.
+    * Integra los recursos adicionales con enlaces y referencias. 
+4. **Asegúrate de que la información sea precisa y esté actualizada**.
+
+</instrucciones>
+
+El documento ha sido adjuntado, mi nombre es Fabrizio Camaggi soy estudiante de la universidad y hoy es 5 de diciembre del 2024.

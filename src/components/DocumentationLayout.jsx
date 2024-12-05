@@ -38,7 +38,10 @@ const DocumentationLayout = () => {
         const section = activePage.slug.toLowerCase().startsWith('caso')
           ? 'cases'
           : activePage.slug.toLowerCase().startsWith('i') ||
-            activePage.slug.toLowerCase().startsWith('examen')
+            activePage.slug.toLowerCase().startsWith('examen') ||
+            activePage.slug.toLowerCase().startsWith('entrega') ||
+            activePage.slug.toLowerCase().startsWith('tarea') ||
+            activePage.slug.toLowerCase().startsWith('actividad')
           ? 'tests'
           : activePage.slug.toLowerCase().startsWith('otros')
           ? 'others'
@@ -83,9 +86,9 @@ const DocumentationLayout = () => {
       >
         <div className="h-full overflow-y-auto p-6">
           <div className="mb-8 sticky top-0 bg-white z-10 pb-4">
-            <h1 className="text-2xl font-bold text-slate-900">GOP Wiki</h1>
+            <h1 className="text-2xl font-bold text-slate-900">TI Wiki</h1>
             <p className="text-sm text-slate-500 mt-1">
-              Resumen y repositorio de GOP (PUC)
+              Resumen y repositorio de TI (PUC)
             </p>
             <p className="text-sm text-slate-500 mt-1">
               Creado con{' '}

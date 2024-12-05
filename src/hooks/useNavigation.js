@@ -3,9 +3,7 @@ import { useState, useEffect } from 'react';
 const useNavigation = () => {
     const [tableOfContents, setTableOfContents] = useState({
         classes: [],
-        cases: [],
-        tests: [],
-        others: [],
+        tests: []
     });
     const [loading, setLoading] = useState(true);
     const [error, setError] = useState(null);

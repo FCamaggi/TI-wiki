@@ -1,0 +1,261 @@
+Results
+Fabrizio Giordano Camaggi Urquiza
+Assessment Statistics
+
+100%
+10 out of 10 points
+10
+Out of 10 points
+Time for this attempt: 4 minutes 20 seconds
+4 minutes 20 seconds04:20
+Time for this attempt
+Your Answers:
+Results for question 1.
+1
+1 / 1 point
+¿Cuál es una de las principales ventajas de una arquitectura basada en eventos en comparación con una arquitectura basada en servicios?
+
+
+Mayor dependencia de la tecnología utilizada por los suscriptores
+
+, Not Selected
+
+Mayor acoplamiento entre sistemas
+
+, Not Selected
+
+Menor escalabilidad
+
+, Not Selected
+Correct answer:
+
+Reducción de consultas innecesarias al sistema
+
+Feedback
+Based on your answer
+Una arquitectura basada en eventos permite que los sistemas solo reaccionen a cambios de estado cuando se produce un evento, evitando consultas constantes al sistema, lo que reduce el overhead y mejora la escalabilidad.
+
+Results for question 2.
+2
+1 / 1 point
+¿Qué característica de la comunicación en una arquitectura basada en eventos la diferencia de una arquitectura de servicios?
+
+
+Solo se necesita conocer el contrato de comunicación
+
+, Not Selected
+Correct answer:
+
+La comunicación es asíncrona
+
+
+La comunicación es iniciada por el cliente
+
+, Not Selected
+
+La comunicación es síncrona
+
+, Not Selected
+Feedback
+Based on your answer
+En una arquitectura basada en eventos, la comunicación es asíncrona, lo que significa que el emisor del evento no espera una respuesta inmediata del suscriptor.
+
+Results for question 3.
+3
+1 / 1 point
+¿Cuál de las siguientes opciones es un ejemplo de desacoplamiento tecnológico en una arquitectura basada en eventos?
+
+Correct answer:
+
+El suscriptor solo necesita recibir eventos según un contrato, sin conocer los detalles del emisor
+
+
+El emisor y el suscriptor deben usar la misma tecnología para comunicarse
+
+, Not Selected
+
+El emisor controla directamente la lógica de los suscriptores
+
+, Not Selected
+
+El suscriptor debe implementar la lógica de negocio del emisor para procesar el evento
+
+, Not Selected
+Feedback
+Based on your answer
+En una arquitectura basada en eventos, el suscriptor se comunica con el emisor a través de un contrato bien definido, sin necesidad de conocer cómo funciona internamente el sistema que genera el evento
+
+Results for question 4.
+4
+1 / 1 point
+¿Qué tipo de datos describe mejor un evento en comparación con un servicio?
+
+Correct answer:
+
+Un cambio de estado en el sistema
+
+
+ Una foto del objeto en un momento del tiempo
+
+, Not Selected
+
+Un conjunto de datos normalizados
+
+, Not Selected
+
+El estado actual de un objeto
+
+, Not Selected
+Feedback
+Based on your answer
+Un evento describe un cambio de estado en el sistema que se produce en un momento específico, mientras que un servicio típicamente representa el estado actual de un objeto.
+
+Results for question 5.
+5
+1 / 1 point
+En una arquitectura basada en eventos, ¿cuándo se inicia la comunicación entre sistemas?
+
+Correct answer:
+
+Cuando el emisor detecta un cambio de estado y publica un evento
+
+
+Cuando el suscriptor realiza una solicitud al emisor
+
+, Not Selected
+
+Cuando se actualiza la base de datos
+
+, Not Selected
+
+Cuando el suscriptor responde a una solicitud del emisor
+
+, Not Selected
+Feedback
+Based on your answer
+En una arquitectura basada en eventos, la comunicación se inicia cuando el emisor detecta un cambio de estado relevante y publica un evento, al cual los suscriptores pueden reaccionar
+
+Results for question 6.
+6
+1 / 1 point
+¿Cuál es una desventaja de utilizar eventos en lugar de servicios para mantener el estado de un sistema?
+
+
+Los eventos no permiten sincronización de datos en tiempo real
+
+, Not Selected
+
+Los eventos son más complejos de implementar que los servicios
+
+, Not Selected
+
+Los eventos son más difíciles de escalar
+
+, Not Selected
+Correct answer:
+
+Los eventos requieren que se recorra toda la historia para obtener el estado actual
+
+Feedback
+Based on your answer
+En una arquitectura basada en eventos, para determinar el estado actual de un sistema, a veces es necesario procesar la secuencia completa de eventos, lo que puede ser menos eficiente que un enfoque de servicio donde el estado actual está disponible de inmediato
+
+Results for question 7.
+7
+1 / 1 point
+¿Qué es un webhook en el contexto de eventos?
+
+
+Un protocolo de comunicación bidireccional para tiempo real
+
+, Not Selected
+Correct answer:
+
+Una notificación de un evento a través de un servicio, utilizado especialmente en servidores web
+
+
+Un estándar web para notificar eventos al navegador
+
+, Not Selected
+
+Una técnica para consultar constantemente por el estado de un servicio
+
+, Not Selected
+Feedback
+Based on your answer
+Un webhook es una manera de notificar a un servicio cuando ocurre un evento, evitando la necesidad de realizar polling constante
+
+Results for question 8.
+8
+1 / 1 point
+¿Qué ventaja tiene un sistema que usa server-sent events sobre uno que usa polling?
+
+
+Permite una comunicación síncrona más eficiente
+
+, Not Selected
+
+Requiere menos recursos en el cliente
+
+, Not Selected
+Correct answer:
+
+Reduce el tráfico innecesario al mantener una conexión abierta
+
+
+Es más compatible con todos los navegadores
+
+, Not Selected
+Feedback
+Based on your answer
+Server-sent events permiten mantener una conexión abierta desde el servidor al cliente, enviando actualizaciones en tiempo real y reduciendo la necesidad de realizar solicitudes constantes
+
+Results for question 9.
+9
+1 / 1 point
+¿Cuál es una de las principales razones por las que los eventos pueden generar más datos que los servicios?
+
+
+Los eventos necesitan duplicar los datos en múltiples lugares
+
+, Not Selected
+Correct answer:
+
+Los eventos almacenan la historia completa de cambios en lugar del estado actual
+
+
+Los eventos son más difíciles de optimizar en sistemas distribuidos
+
+, Not Selected
+
+Los eventos requieren mayor poder de procesamiento
+
+, Not Selected
+Feedback
+Based on your answer
+A diferencia de los servicios, que generalmente representan el estado actual de un objeto, los eventos capturan cada cambio en el sistema, lo que puede generar un mayor volumen de datos
+
+Results for question 10.
+10
+1 / 1 point
+¿Cuál es una desventaja potencial de usar WebSockets en lugar de HTTP estándar en una arquitectura basada en eventos?
+
+Correct answer:
+
+Algunos servidores y entornos no soportan WebSockets, lo que puede limitar la compatibilidad
+
+
+WebSockets siempre introducen mayor latencia en la comunicación
+
+, Not Selected
+
+WebSockets no soportan comunicación bidireccional
+
+, Not Selected
+
+WebSockets requieren más recursos de red que HTTP estándar
+
+, Not Selected
+Feedback
+Based on your answer
+Aunque WebSockets permiten una comunicación bidireccional en tiempo real, no todos los servidores y entornos los soportan, lo que puede requerir configuraciones adicionales o el uso de tecnologías alternativas

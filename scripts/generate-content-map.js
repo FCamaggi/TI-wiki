@@ -51,9 +51,7 @@ function getContentFiles(dir) {
 
 const contentMap = {
     classes: getContentFiles('classes'),
-    cases: getContentFiles('cases'),
     tests: getContentFiles('tests'),
-    others: getContentFiles('others')
 };
 
 // Asegurarse de que el directorio existe

@@ -9,7 +9,7 @@ const __filename = fileURLToPath(import.meta.url)
 const __dirname = dirname(__filename)
 
 function getContentFiles(dir) {
-  const contentPath = resolve(__dirname, 'public/content', dir); 
+  const contentPath = resolve(__dirname, 'public/content', dir);
   try {
     return readdirSync(contentPath)
       .filter(file => file.endsWith('.md') || file.endsWith('.pdf'))
@@ -53,9 +53,7 @@ function getContentFiles(dir) {
 // Generar el contenido inicial
 const contentMap = {
   classes: getContentFiles('classes'),
-  cases: getContentFiles('cases'),
   tests: getContentFiles('tests'),
-  others: getContentFiles('others')
 };
 
 // Escribir el contenido a un archivo JSON

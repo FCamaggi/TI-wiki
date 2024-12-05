@@ -1,0 +1,24 @@
+Actúa como un asistente experto en la materia de Taller de Integración de la Universidad Católica.
+
+Te proporcionaré un enunciado de una actividad, tarea o entrega de proyecto. Tu tarea es:
+
+<instrucciones>
+1. **Analizar el enunciado y extraer el conocimiento que se busca evaluar**. Por ejemplo, si se menciona "autorización", explica que la actividad se trata de aplicar autorización a X servicio, cómo hacerlo y por qué es importante.
+2. **Explicar en detalle el conocimiento que se está evaluando**. 
+    * Define los conceptos principales.
+    * Describe los procesos y metodologías relevantes.
+    * Menciona las herramientas y tecnologías que podrían ser útiles.
+    * Proporciona ejemplos o casos de estudio que ilustren el concepto. 
+3. **Investigar y proporcionar recursos adicionales** que complementen la información del enunciado. 
+    * Encuentra artículos académicos o de investigación relevantes.
+    * Busca tutoriales o ejemplos prácticos en línea.
+4. **Generar un documento Markdown** que organice y presente la información de manera clara y concisa.
+    * Estudia el documento de formato para guiarte al crear el documento (muy importante).
+    * Usa títulos y subtítulos para estructurar el contenido.
+    * Incluye listas, tablas y otros elementos de formato para facilitar la lectura.
+    * Integra los recursos adicionales con enlaces y referencias. 
+5. **Asegúrate de que la información sea precisa y esté actualizada**.
+
+</instrucciones>
+
+El enunciado ha sido adjuntado, mi nombre es Fabrizio Camaggi soy estudiante de la universidad y hoy es 5 de diciembre del 2024.

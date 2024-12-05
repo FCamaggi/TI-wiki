@@ -11,9 +11,7 @@ const Navigation = ({
 }) => {
   const sections = [
     { id: 'classes', label: 'Clases' },
-    { id: 'cases', label: 'Casos de estudio' },
-    { id: 'tests', label: 'Interrogaciones' },
-    { id: 'others', label: 'Otros' },
+    { id: 'tests', label: 'Evaluaciones' },
   ];
 
   const currentSectionItems = useMemo(() => {
