@@ -1,5 +1,3 @@
-
-
 # Servicios Web y REST
 
 ## Descripción General
@@ -80,12 +78,11 @@ Un servicio es un conjunto de funciones de software relacionadas entre sí que:
 
 ### 3.1 Componentes de una URL
 
-```
-https://www.example.co.uk:443/blog/article/search?docid=720&hl=en#dayone
-|-----|---|---------|-----|-------------------|-------------------|--------|
-scheme  |  domain   port        path         query string       fragment
-      subdomain
-```
+<https://www.example.co.uk:443/blog/article/search?docid=720&hl=en#dayone>
+
+| scheme | subdomain | domain        | port | path                 | query string    | fragment |
+| ------ | --------- | ------------- | ---- | -------------------- | --------------- | -------- |
+| https  | www       | example.co.uk | 443  | /blog/article/search | docid=720&hl=en | dayone   |
 
 ### 3.2 Métodos HTTP Principales
 
