@@ -85,5 +85,84 @@
       "isPdf": false
     }
   ],
-  "tests": []
+  "tests": [
+    {
+      "slug": "Actividad-01---Entendiendo-una-API--Taller-de-Integracion",
+      "title": "Actividad 01   Entendiendo una API  Taller de Integracion",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Actividad-02---Servicios--Taller-de-Integracion",
+      "title": "Actividad 02   Servicios  Taller de Integracion",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "actividad-04---Introduccion-a-eventos",
+      "title": "actividad 04   Introduccion a eventos",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Actividad-05---Procesamiento-de-eventos--Taller-de-Integracion",
+      "title": "Actividad 05   Procesamiento de eventos  Taller de Integracion",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Actividad-06---Caso-BancoEstado",
+      "title": "Actividad 06   Caso BancoEstado",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Actividad-09--Instrucciones-OpenSSL--Taller-de-Integracion",
+      "title": "Actividad 09  Instrucciones OpenSSL  Taller de Integracion",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Actividad-10--DDD--Taller-de-Integracion",
+      "title": "Actividad 10  DDD  Taller de Integracion",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Entrega-01---Proyecto",
+      "title": "Entrega 01   Proyecto",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Entrega-02---Proyecto",
+      "title": "Entrega 02   Proyecto",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Entrega-03---Proyecto",
+      "title": "Entrega 03   Proyecto",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Enunciado-Tarea-1-2024-2",
+      "title": "Enunciado Tarea 1 2024 2",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Enunciado-Tarea-2-2024-2",
+      "title": "Enunciado Tarea 2 2024 2",
+      "order": 0,
+      "isPdf": false
+    },
+    {
+      "slug": "Enunciado-Tarea-3-2024-2-",
+      "title": "Enunciado Tarea 3 2024 2 ",
+      "order": 0,
+      "isPdf": false
+    }
+  ]
 }
